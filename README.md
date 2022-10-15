@@ -1,3 +1,3 @@
-# Discord-website
+# Archivos-from-website
 
-store
+archivos para el desarrollo de la pagina web
